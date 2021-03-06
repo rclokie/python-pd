@@ -42,3 +42,9 @@ ecl:lzr
 eyr:2021 pid:152cm
 cid:254 iyr:2020 hcl:z hgt:157cm
 
+
+byr:1234
+ecl:lzr
+eyr:4321 pid:152cm
+hgt:157cm
+
