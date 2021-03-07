@@ -1,4 +1,3 @@
-
 hgt:176cm
 iyr:2013
 hcl:#fffffd ecl:amb
